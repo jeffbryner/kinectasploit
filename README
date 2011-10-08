@@ -1,0 +1,25 @@
+#   Kinectasploit
+#   2011 Jeff Bryner
+
+#Prerequisites: 
+#   -a working kinect environment with skeleton tracking via open NITE
+#   -python 3.2
+#   -blender 2.57 (blender.org)
+#   -metasploit with xmlrpc and the database engine working
+#   -numpy
+#   -osceleton github.com/Sensebloom/osceleton
+#   -jack the realtime sound engine (jackaudio.org)
+# 
+
+#credits: 
+# Carlos Limon 
+# aka youtube.com/user/carlosandlexi
+# aka blenderartists.org cuervo1003 for the game environment (rooms, textures, etc)
+
+# blenderartists.org member wayfarer_boy for the initial OSC, bone constraint idea and
+# implementation.
+
+# python-osc decoding 
+# Copyright (C) 2010 Ryan Coyner
+
+
