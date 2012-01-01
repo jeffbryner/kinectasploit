@@ -23,3 +23,5 @@
 # Copyright (C) 2010 Ryan Coyner
 
 
+#12/2011 updated to use metasploit's new rpc interface: msgpack over http
+#and db_autopwn as a plugin since it's deprecated in the official msf
